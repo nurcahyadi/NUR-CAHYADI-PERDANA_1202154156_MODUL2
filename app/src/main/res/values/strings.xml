@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">NURCAHYADI_1202154156_MODUL2</string>
+
+    <string-array name="nomeja">
+        <item>Meja 1</item>
+        <item>Meja 2</item>
+        <item>Meja 3</item>
+        <item>Meja 4</item>
+        <item>Meja 5</item>
+    </string-array>
+    <string name="date_picker">datePicker</string>
+    <string name="time_picker">timePicker</string>
+    <string name="date">Date:</string>
+    <string name="time">Time:</string>
+    <string name="title_activity_detail">detailActivity</string>
+
+</resources>
